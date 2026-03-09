@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/zainaballawi/14ffab83-b148-4516-ac30-6224876d581a/b12dcc4f-c00c-4d51-81e6-747d3d523417/_apis/work/boardbadge/98e4ef96-c27a-4294-aea8-01ce1a8d8b8c)](https://dev.azure.com/zainaballawi/14ffab83-b148-4516-ac30-6224876d581a/_boards/board/t/b12dcc4f-c00c-4d51-81e6-747d3d523417/Microsoft.RequirementCategory)
 # Photo Gallery & Portfolio
 
 A professional photo gallery and portfolio application built with Next.js 15, TypeScript, and Tailwind CSS. This project is designed for **demoing GitHub Copilot features** in a real-world, component-driven Next.js application. The included demos showcase how Copilot can assist with code generation, refactoring, UI building, and more.
